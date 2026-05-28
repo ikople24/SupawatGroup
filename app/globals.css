@@ -1,26 +1,70 @@
 @import "tailwindcss";
 
 :root {
+  color-scheme: light only;
   --background: #ffffff;
-  --foreground: #171717;
+  --foreground: #0f172a;
+
+  --sg-navy-deep: #27306d;
+  --sg-navy: #2c4781;
+  --sg-cyan: #47c6e6;
+  --sg-green: #679940;
+  --sg-green-dark: #005e41;
+  --sg-green-deepest: #003b25;
+  --sg-green-mint: #71c599;
+  --sg-green-soft: #a6d6ac;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-sg-navy-deep: var(--sg-navy-deep);
+  --color-sg-navy: var(--sg-navy);
+  --color-sg-cyan: var(--sg-cyan);
+  --color-sg-green: var(--sg-green);
+  --color-sg-green-dark: var(--sg-green-dark);
+  --color-sg-green-deepest: var(--sg-green-deepest);
+  --color-sg-green-mint: var(--sg-green-mint);
+  --color-sg-green-soft: var(--sg-green-soft);
+
+  --font-sans: var(--font-sarabun), var(--font-geist-sans), system-ui, sans-serif;
+  --font-display: var(--font-kanit), var(--font-geist-sans), system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono);
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sarabun), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-kanit), system-ui, sans-serif;
+  letter-spacing: -0.01em;
+}
+
+.sg-gradient-hero {
+  background:
+    radial-gradient(60% 80% at 90% 10%, rgba(166, 214, 172, 0.55), transparent 70%),
+    radial-gradient(50% 60% at 10% 90%, rgba(71, 198, 230, 0.35), transparent 70%),
+    linear-gradient(135deg, #eef7f1 0%, #ffffff 60%, #e8f4f8 100%);
+}
+
+.sg-gradient-card {
+  background: linear-gradient(135deg, #2c4781 0%, #005e41 55%, #47c6e6 100%);
+}
+
+.sg-gradient-text {
+  background: linear-gradient(120deg, #27306d 0%, #2c4781 40%, #679940 80%, #47c6e6 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.sg-divider {
+  background: linear-gradient(90deg, #27306d 0%, #2c4781 35%, #679940 70%, #a6d6ac 100%);
+  height: 3px;
+  border-radius: 999px;
 }

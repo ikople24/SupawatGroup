@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "login": "Sign in",
+    "admin": "Admin",
+    "logout": "Sign out"
+  },
+  "common": {
+    "learn_more": "Learn more",
+    "contact_us": "Contact us",
+    "view_all": "View all",
+    "back_home": "Back to home",
+    "save": "Save",
+    "cancel": "Cancel",
+    "saved": "Saved successfully",
+    "error": "Something went wrong"
+  },
+  "home": {
+    "kicker": "Supawat Group · SG",
+    "title_line1": "Co-create Quality.",
+    "title_line2": "Elevate Value.",
+    "cta_learn": "Our services",
+    "cta_about": "About us",
+    "section_services_kicker": "What we deliver",
+    "section_services_title_line1": "Services designed",
+    "section_services_title_line2": "for your business",
+    "section_stats_kicker": "Outstanding Services",
+    "section_stats_title_line1": "Beyond an OEM,",
+    "section_stats_title_line2": "powered by Co-Creation",
+    "section_stats_text": "SG is at once a processing facility, a learning hub, and an opportunity engine for Lao farming networks and Thai partners.",
+    "section_values_kicker": "Brand Values",
+    "section_values_title_line1": "Values we",
+    "section_values_title_line2": "live by, together",
+    "section_values_text": "Setting a new standard in fruit processing starts from integrity, knowledge transfer, and rolling up our sleeves alongside our partners."
+  },
+  "about": {
+    "kicker": "About Supawat Group",
+    "title": "A Thai–Lao Co-creation",
+    "vision_label": "Vision",
+    "mission_label": "Mission",
+    "story_kicker": "Our Story",
+    "story_title_line1": "Not just an OEM,",
+    "story_title_line2": "a shared learning hub",
+    "values_title": "Our three core values"
+  },
+  "services": {
+    "kicker": "Services",
+    "title_line1": "Services designed",
+    "title_line2": "for your business",
+    "intro": "From raw material handling and processing to knowledge transfer, brand design, and quality standards.",
+    "cta_title": "Ready to co-create a new standard with us?",
+    "cta_text": "Our team is here to listen — whether you come from industry, academia, or the community.",
+    "cta_button": "Talk to our team"
+  },
+  "contact": {
+    "kicker": "Contact",
+    "title_line1": "Let’s build",
+    "title_line2": "something together",
+    "intro": "If you’d like to collaborate, learn, or partner with us, reach out via the channels below.",
+    "info_title": "Contact information",
+    "address_label": "Address",
+    "phone_label": "Phone",
+    "email_label": "Email",
+    "send_email": "Send email",
+    "fallback_text": "We work fluently across Thai, Lao, and English — to keep moving forward together."
+  },
+  "footer": {
+    "menu": "Menu",
+    "brand_dna": "Brand DNA",
+    "contact": "Contact",
+    "tagline": "Co-create quality. Elevate value for sustainable agriculture."
+  },
+  "auth": {
+    "login_title": "Sign in",
+    "login_subtitle": "Supawat Group website administrators",
+    "username": "Username",
+    "password": "Password",
+    "submit": "Sign in",
+    "invalid": "Invalid credentials"
+  },
+  "admin": {
+    "title": "Manage basic information",
+    "subtitle": "Edit content per language and save — your website updates automatically.",
+    "lang_label": "Language",
+    "save": "Save changes",
+    "name_th": "Company name (Thai)",
+    "name_en": "Company name (English)",
+    "tagline_th": "Tagline (Thai)",
+    "tagline_en": "Tagline (English)",
+    "vision": "Vision",
+    "mission": "Mission",
+    "about_summary": "Company story (summary)",
+    "about_detail": "Company story (detail)",
+    "about_symbol": "Symbol statement",
+    "contact_address": "Address",
+    "contact_phone": "Phone",
+    "contact_email": "Email",
+    "contact_map": "Google Maps embed URL"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "home": "ໜ້າຫຼັກ",
+    "about": "ກ່ຽວກັບເຮົາ",
+    "services": "ບໍລິການ",
+    "contact": "ຕິດຕໍ່",
+    "login": "ເຂົ້າສູ່ລະບົບ",
+    "admin": "ຜູ້ດູແລ",
+    "logout": "ອອກຈາກລະບົບ"
+  },
+  "common": {
+    "learn_more": "ເບິ່ງເພີ່ມເຕີມ",
+    "contact_us": "ຕິດຕໍ່ເຮົາ",
+    "view_all": "ເບິ່ງທັງໝົດ",
+    "back_home": "ກັບໜ້າຫຼັກ",
+    "save": "ບັນທຶກ",
+    "cancel": "ຍົກເລີກ",
+    "saved": "ບັນທຶກສຳເລັດ",
+    "error": "ເກີດຄວາມຜິດພາດ"
+  },
+  "home": {
+    "kicker": "Supawat Group · SG",
+    "title_line1": "Co-create Quality.",
+    "title_line2": "Elevate Value.",
+    "cta_learn": "ເບິ່ງບໍລິການ",
+    "cta_about": "ກ່ຽວກັບເຮົາ",
+    "section_services_kicker": "What we deliver",
+    "section_services_title_line1": "ບໍລິການທີ່ອອກແບບ",
+    "section_services_title_line2": "ເພື່ອທຸລະກິດຂອງທ່ານ",
+    "section_stats_kicker": "Outstanding Services",
+    "section_stats_title_line1": "ບໍລິການເໜືອລະດັບ",
+    "section_stats_title_line2": "ທີ່ເລີ່ມຕົ້ນຈາກ Co-Creation",
+    "section_stats_text": "SG ເປັນທັງໂຮງງານປຸງແຕ່ງ ສູນຮຽນຮູ້ ແລະ ສູນສ້າງໂອກາດທາງເສດຖະກິດ ສຳລັບເຄືອຂ່າຍກະສິກອນລາວ ແລະ ຄູ່ຮ່ວມໄທ",
+    "section_values_kicker": "Brand Values",
+    "section_values_title_line1": "ຄຸນຄ່າທີ່ເຮົາ",
+    "section_values_title_line2": "ຍຶດຖືຮ່ວມກັນ",
+    "section_values_text": "ເຮົາເຊື່ອວ່າການສ້າງມາດຕະຖານໃໝ່ຂອງການປຸງແຕ່ງໝາກໄມ້ ຕ້ອງເລີ່ມຈາກຄວາມຊື່ສັດ ການຖ່າຍທອດຄວາມຮູ້ ແລະ ການລົງມືຮ່ວມກັນ"
+  },
+  "about": {
+    "kicker": "About Supawat Group",
+    "title": "Co-create ລະຫວ່າງໄທ–ລາວ",
+    "vision_label": "ວິໄສທັດ",
+    "mission_label": "ພາລະກິດ",
+    "story_kicker": "Our Story",
+    "story_title_line1": "ບໍ່ແມ່ນພຽງ OEM",
+    "story_title_line2": "ແຕ່ເປັນສູນຮຽນຮູ້ຮ່ວມກັນ",
+    "values_title": "ຄຸນຄ່າຫຼັກ 3 ປະການ"
+  },
+  "services": {
+    "kicker": "Services",
+    "title_line1": "ບໍລິການທີ່ອອກແບບ",
+    "title_line2": "ເພື່ອທຸລະກິດຂອງທ່ານ",
+    "intro": "ຄອບຄຸມຕັ້ງແຕ່ການຈັດການວັດຖຸດິບ ການປຸງແຕ່ງ ການຖ່າຍທອດຄວາມຮູ້ ຈົນເຖິງການອອກແບບແບຣນ ແລະ ມາດຕະຖານຄຸນນະພາບ",
+    "cta_title": "ພ້ອມຮ່ວມສ້າງມາດຕະຖານໃໝ່ໄປກັບເຮົາ?",
+    "cta_text": "ທີມງານ Supawat Group ຍິນດີຮັບຟັງໂຈດຍຂອງທ່ານ ທັງຈາກພາກທຸລະກິດ ພາກການສຶກສາ ແລະ ພາກຊຸມຊົນ",
+    "cta_button": "ຕິດຕໍ່ທີມງານ"
+  },
+  "contact": {
+    "kicker": "Contact",
+    "title_line1": "ມາສ້າງສັນຮ່ວມກັນ",
+    "title_line2": "ໄປດ້ວຍກັນ",
+    "intro": "ຫາກທ່ານສົນໃຈຮ່ວມງານ ຮຽນຮູ້ ຫຼື ສ້າງຄູ່ຮ່ວມມືກັບເຮົາ ຕິດຕໍ່ໄດ້ຕາມຊ່ອງທາງດ້ານລຸ່ມ",
+    "info_title": "ຂໍ້ມູນຕິດຕໍ່",
+    "address_label": "ທີ່ຢູ່",
+    "phone_label": "ໂທລະສັບ",
+    "email_label": "ອີເມວ",
+    "send_email": "ສົ່ງອີເມວ",
+    "fallback_text": "ເຮົາພ້ອມສົນທະນາທັງພາສາລາວ ໄທ ແລະ ອັງກິດ ເພື່ອກ້າວຕໍ່ໄປຮ່ວມກັນ"
+  },
+  "footer": {
+    "menu": "ເມນູ",
+    "brand_dna": "Brand DNA",
+    "contact": "ຕິດຕໍ່",
+    "tagline": "ຮ່ວມສ້າງຄຸນນະພາບ ເພື່ອຍົກລະດັບຄຸນຄ່າທາງກະສິກຳຢ່າງຍືນຍົງ"
+  },
+  "auth": {
+    "login_title": "ເຂົ້າສູ່ລະບົບ",
+    "login_subtitle": "ສຳລັບຜູ້ດູແລເວັບໄຊ Supawat Group",
+    "username": "ຊື່ຜູ້ໃຊ້",
+    "password": "ລະຫັດຜ່ານ",
+    "submit": "ເຂົ້າສູ່ລະບົບ",
+    "invalid": "ຂໍ້ມູນເຂົ້າສູ່ລະບົບບໍ່ຖືກຕ້ອງ"
+  },
+  "admin": {
+    "title": "ຈັດການຂໍ້ມູນພື້ນຖານ",
+    "subtitle": "ແກ້ໄຂເນື້ອຫາແຕ່ລະພາສາ ແລ້ວບັນທຶກ ລະບົບຈະອັບເດດຫນ້າເວັບອັດຕະໂນມັດ",
+    "lang_label": "ພາສາ",
+    "save": "ບັນທຶກການປ່ຽນແປງ",
+    "name_th": "ຊື່ບໍລິສັດ (ໄທ)",
+    "name_en": "ຊື່ບໍລິສັດ (ອັງກິດ)",
+    "tagline_th": "Tagline (ໄທ)",
+    "tagline_en": "Tagline (ອັງກິດ)",
+    "vision": "Vision",
+    "mission": "Mission",
+    "about_summary": "ເລື່ອງລາວບໍລິສັດ (ສະຫຼຸບ)",
+    "about_detail": "ເລື່ອງລາວບໍລິສັດ (ລາຍລະອຽດ)",
+    "about_symbol": "ຂໍ້ຄວາມສະຫຼຸບສັນຍາລັກ",
+    "contact_address": "ທີ່ຢູ່",
+    "contact_phone": "ເບີໂທ",
+    "contact_email": "ອີເມວ",
+    "contact_map": "Google Maps Embed URL"
+  }
+}

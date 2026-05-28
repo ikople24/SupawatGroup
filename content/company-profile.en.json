@@ -1,0 +1,100 @@
+{
+  "company": {
+    "name_th": "Supawat Group",
+    "name_en": "Supawat Group Sole",
+    "abbr": "SG",
+    "tagline_th": "Co-create Quality. Elevate Value.",
+    "tagline_en": "Co-create Quality. Elevate Value."
+  },
+  "vision": "To be the production and knowledge-transfer hub driven by Thailand–Laos collaboration — elevating the dried-fruit industry to international standards and building a sustainable future for farmers and communities.",
+  "mission": "To co-create a new standard for fruit processing through Thai–Lao CO-CREATION, raising the quality of produce and knowledge to grow sustainably together.",
+  "brand_dna": [
+    { "title": "Quality", "subtitle": "International-grade quality standards", "color": "navy" },
+    { "title": "Sustainability", "subtitle": "Sustainable in economy, environment, and shared knowledge", "color": "green" },
+    { "title": "Co-Creation", "subtitle": "Co-create, co-design, co-build", "color": "cyan" }
+  ],
+  "brand_values": [
+    { "index": "01", "title": "Integrity & Shared Responsibility", "description": "Transparent, accountable, and respectful of every stakeholder." },
+    { "index": "02", "title": "Innovation & Knowledge Transfer", "description": "Modern processing technology paired with Thai–Lao knowledge transfer." },
+    { "index": "03", "title": "Co-Creation for a Shared Future", "description": "More than making products — building a shared economic future together." }
+  ],
+  "about": {
+    "summary": "SUPAWAT GROUP SOLE (SG) was initiated by Prof. Dr. Ord Phongsavanh, Deputy Chairperson of the Lao Front for National Construction, who saw the opportunity to elevate Lao agricultural produce — abundant yet still sold as raw materials — by inviting a network of Thai experts, researchers, and designers to work hand-in-hand with Lao communities and partners to build international-grade processing standards.",
+    "detail": "This project is not just an “OEM factory” but a learning hub, a technology transfer center, and an opportunity engine for the Lao people — powered by CO-CREATION among Thai academia, Lao enterprise, and farmers in the Lao Front for National Construction’s Samakkhi Village Fund network, who together design every step from raw material handling to international-standard production.",
+    "symbol": "SG therefore stands as a symbol of shared effort, shared spirit, and shared wisdom between Thailand and Laos — where every stakeholder plays a role in making sustainability real."
+  },
+  "services": [
+    {
+      "title": "Fruit Processing OEM",
+      "description": "International-grade crispy fruit production and processing — from raw material sourcing to finished packaging.",
+      "bullets": [
+        "Vacuum / Freeze-dried fruit",
+        "Food Safety quality control",
+        "Recipe & flavor customisation for client brands"
+      ]
+    },
+    {
+      "title": "Knowledge & Technology Transfer",
+      "description": "Transferring technology and production know-how to Lao farmers and partners through the SG learning center.",
+      "bullets": [
+        "Hands-on workshops",
+        "Joint Thai–Lao talent development",
+        "Co-Research collaborations"
+      ]
+    },
+    {
+      "title": "Co-Creation Partnership",
+      "description": "Designing projects together with communities, entrepreneurs, and researchers for lasting economic impact.",
+      "bullets": [
+        "New product design",
+        "Supply chain development",
+        "Traceability standards"
+      ]
+    },
+    {
+      "title": "Brand & Packaging Design",
+      "description": "Brand and packaging design that conveys community value while competing on the international stage.",
+      "bullets": [
+        "Identity & Story",
+        "Sustainable Packaging",
+        "Retail-ready Design"
+      ]
+    },
+    {
+      "title": "Quality & Standard Consulting",
+      "description": "Production-standard consulting to be ready for international audits and certification.",
+      "bullets": ["GMP / HACCP", "ISO 22000", "Traceability documentation"]
+    },
+    {
+      "title": "Sustainable Sourcing",
+      "description": "Connecting farmers in the Samakkhi Village Fund network with markets that value sustainability.",
+      "bullets": [
+        "Fair sourcing",
+        "Community partnerships",
+        "Low-carbon production support"
+      ]
+    }
+  ],
+  "highlights": [
+    { "title": "Co-create Quality", "description": "Blending Thai–Lao knowledge to design quality processes at international standard." },
+    { "title": "Elevate Value", "description": "Turning raw materials into high-value, sustainable products." },
+    { "title": "Shared Future", "description": "Building a shared economy grounded in community and the environment." }
+  ],
+  "stats": [
+    { "value": "Thai–Lao", "label": "Cross-border Partnership" },
+    { "value": "OEM+", "label": "Not just a factory — a learning hub" },
+    { "value": "100%", "label": "Co-Creation Mindset" },
+    { "value": "∞", "label": "Sustainable Impact" }
+  ],
+  "contact": {
+    "address_th": "Contact Supawat Group office (Thailand – Lao PDR)",
+    "phone": "—",
+    "email": "—",
+    "map_embed_url": ""
+  },
+  "social": {
+    "facebook": "",
+    "line": "",
+    "website": ""
+  }
+}

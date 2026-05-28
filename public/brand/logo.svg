@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 260" role="img" aria-label="Supawat Group">
+  <defs>
+    <linearGradient id="sgHexStroke" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#27306D" />
+      <stop offset="100%" stop-color="#47C6E6" />
+    </linearGradient>
+    <linearGradient id="sgBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#27306D" />
+      <stop offset="55%" stop-color="#2C4781" />
+      <stop offset="100%" stop-color="#47C6E6" />
+    </linearGradient>
+    <linearGradient id="sgGreen" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#003B25" />
+      <stop offset="55%" stop-color="#679940" />
+      <stop offset="100%" stop-color="#A6D6AC" />
+    </linearGradient>
+  </defs>
+  <polygon
+    points="120,12 220,68 220,180 120,236 20,180 20,68"
+    fill="none"
+    stroke="url(#sgHexStroke)"
+    stroke-width="3"
+  />
+  <text
+    x="62"
+    y="170"
+    font-family="Helvetica, Arial, sans-serif"
+    font-size="140"
+    font-weight="800"
+    fill="url(#sgBlue)"
+    letter-spacing="-6"
+  >S</text>
+  <path
+    d="M 70 152 C 110 102 165 90 205 70 C 200 110 175 155 130 175 C 100 188 80 178 70 152 Z"
+    fill="url(#sgGreen)"
+    opacity="0.92"
+  />
+  <text
+    x="118"
+    y="180"
+    font-family="Helvetica, Arial, sans-serif"
+    font-size="120"
+    font-weight="800"
+    fill="url(#sgGreen)"
+    letter-spacing="-4"
+  >G</text>
+  <text
+    x="120"
+    y="216"
+    text-anchor="middle"
+    font-family="Helvetica, Arial, sans-serif"
+    font-size="18"
+    font-weight="700"
+    fill="#27306D"
+    letter-spacing="2"
+  >SUPAWAT GROUP</text>
+</svg>

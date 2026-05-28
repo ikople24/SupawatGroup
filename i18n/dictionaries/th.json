@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "home": "หน้าแรก",
+    "about": "เกี่ยวกับเรา",
+    "services": "บริการ",
+    "contact": "ติดต่อ",
+    "login": "เข้าสู่ระบบ",
+    "admin": "ผู้ดูแล",
+    "logout": "ออกจากระบบ"
+  },
+  "common": {
+    "learn_more": "ดูเพิ่มเติม",
+    "contact_us": "ติดต่อเรา",
+    "view_all": "ดูทั้งหมด",
+    "back_home": "กลับหน้าแรก",
+    "save": "บันทึก",
+    "cancel": "ยกเลิก",
+    "saved": "บันทึกสำเร็จ",
+    "error": "เกิดข้อผิดพลาด"
+  },
+  "home": {
+    "kicker": "Supawat Group · SG",
+    "title_line1": "Co-create Quality.",
+    "title_line2": "Elevate Value.",
+    "cta_learn": "ดูบริการ",
+    "cta_about": "เกี่ยวกับเรา",
+    "section_services_kicker": "What we deliver",
+    "section_services_title_line1": "บริการที่ออกแบบ",
+    "section_services_title_line2": "เพื่อธุรกิจของคุณ",
+    "section_stats_kicker": "Outstanding Services",
+    "section_stats_title_line1": "บริการเหนือระดับ",
+    "section_stats_title_line2": "ที่เริ่มต้นจาก Co-Creation",
+    "section_stats_text": "SG เป็นทั้งโรงงานแปรรูป ศูนย์เรียนรู้ และศูนย์สร้างโอกาสทางเศรษฐกิจ สำหรับเครือข่ายเกษตรกรลาวและพันธมิตรไทย",
+    "section_values_kicker": "Brand Values",
+    "section_values_title_line1": "คุณค่าที่เรา",
+    "section_values_title_line2": "ยึดถือร่วมกัน",
+    "section_values_text": "เราเชื่อว่าการสร้างมาตรฐานใหม่ของการแปรรูปผลไม้ ต้องเริ่มจากความซื่อสัตย์ การถ่ายทอดความรู้ และการลงมือร่วมกัน"
+  },
+  "about": {
+    "kicker": "About Supawat Group",
+    "title": "Co-create ระหว่างไทย–ลาว",
+    "vision_label": "วิสัยทัศน์",
+    "mission_label": "พันธกิจ",
+    "story_kicker": "Our Story",
+    "story_title_line1": "ไม่ใช่แค่ OEM",
+    "story_title_line2": "แต่คือศูนย์เรียนรู้ร่วม",
+    "values_title": "คุณค่าหลัก 3 ประการ"
+  },
+  "services": {
+    "kicker": "Services",
+    "title_line1": "บริการที่ออกแบบ",
+    "title_line2": "เพื่อธุรกิจของคุณ",
+    "intro": "ครอบคลุมตั้งแต่การจัดการวัตถุดิบ การแปรรูป การถ่ายทอดความรู้ จนถึงการออกแบบแบรนด์และมาตรฐานคุณภาพ",
+    "cta_title": "พร้อมร่วมสร้างมาตรฐานใหม่ไปกับเรา?",
+    "cta_text": "ทีมงาน Supawat Group ยินดีรับฟังโจทย์ของคุณ ทั้งจากภาคธุรกิจ ภาคการศึกษา และภาคชุมชน",
+    "cta_button": "ติดต่อทีมงาน"
+  },
+  "contact": {
+    "kicker": "Contact",
+    "title_line1": "ร่วมกันสร้างสรรค์",
+    "title_line2": "ไปด้วยกัน",
+    "intro": "หากคุณสนใจจะร่วมงาน เรียนรู้ หรือสร้างพันธมิตรกับเรา ติดต่อได้ตามช่องทางด้านล่าง",
+    "info_title": "ข้อมูลติดต่อ",
+    "address_label": "ที่อยู่",
+    "phone_label": "โทรศัพท์",
+    "email_label": "อีเมล",
+    "send_email": "ส่งอีเมล",
+    "fallback_text": "เราพร้อมพูดคุยทั้งภาษาไทย ลาว และอังกฤษ เพื่อก้าวต่อไปร่วมกัน"
+  },
+  "footer": {
+    "menu": "เมนู",
+    "brand_dna": "Brand DNA",
+    "contact": "ติดต่อ",
+    "tagline": "ร่วมสร้างคุณภาพ เพื่อยกระดับคุณค่าทางเกษตรอย่างยั่งยืน"
+  },
+  "auth": {
+    "login_title": "เข้าสู่ระบบ",
+    "login_subtitle": "สำหรับผู้ดูแลเว็บไซต์ Supawat Group",
+    "username": "ชื่อผู้ใช้",
+    "password": "รหัสผ่าน",
+    "submit": "เข้าสู่ระบบ",
+    "invalid": "ข้อมูลเข้าสู่ระบบไม่ถูกต้อง"
+  },
+  "admin": {
+    "title": "จัดการข้อมูลพื้นฐาน",
+    "subtitle": "แก้ไขเนื้อหาแต่ละภาษาแล้วบันทึก ระบบจะอัปเดตหน้าเว็บอัตโนมัติ",
+    "lang_label": "ภาษา",
+    "save": "บันทึกการเปลี่ยนแปลง",
+    "name_th": "ชื่อบริษัท (ไทย)",
+    "name_en": "ชื่อบริษัท (อังกฤษ)",
+    "tagline_th": "Tagline (ไทย)",
+    "tagline_en": "Tagline (อังกฤษ)",
+    "vision": "Vision",
+    "mission": "Mission",
+    "about_summary": "เรื่องราวบริษัท (สรุป)",
+    "about_detail": "เรื่องราวบริษัท (รายละเอียด)",
+    "about_symbol": "ข้อความสรุปสัญลักษณ์",
+    "contact_address": "ที่อยู่",
+    "contact_phone": "เบอร์โทร",
+    "contact_email": "อีเมล",
+    "contact_map": "Google Maps Embed URL"
+  }
+}
