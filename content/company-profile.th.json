@@ -1,0 +1,59 @@
+{
+  "company": {
+    "name_th": "Supawat Group",
+    "name_en": "Supawat Group",
+    "tagline_th": "โซลูชันและบริการเพื่อธุรกิจของคุณ",
+    "tagline_en": "Solutions and services for your business"
+  },
+  "highlights": [
+    {
+      "title": "คุณภาพและมาตรฐาน",
+      "description": "ยึดมาตรฐานการทำงานและความปลอดภัยเป็นหลัก"
+    },
+    {
+      "title": "ทีมงานมืออาชีพ",
+      "description": "ให้คำปรึกษาและดูแลตั้งแต่เริ่มต้นจนส่งมอบ"
+    },
+    {
+      "title": "บริการครบวงจร",
+      "description": "รองรับความต้องการของลูกค้าได้หลากหลาย"
+    }
+  ],
+  "about": {
+    "summary": "ใส่สรุปบริษัทจาก PDF ตรงนี้",
+    "vision": "ใส่วิสัยทัศน์จาก PDF ตรงนี้",
+    "mission": [
+      "ใส่พันธกิจข้อที่ 1 จาก PDF",
+      "ใส่พันธกิจข้อที่ 2 จาก PDF"
+    ],
+    "history_timeline": [
+      {
+        "year": "20XX",
+        "detail": "ใส่เหตุการณ์สำคัญจาก PDF"
+      }
+    ]
+  },
+  "services": [
+    {
+      "title": "บริการ/หน่วยธุรกิจ 1",
+      "description": "ใส่คำอธิบายจาก PDF",
+      "bullets": ["รายการย่อย 1", "รายการย่อย 2"]
+    },
+    {
+      "title": "บริการ/หน่วยธุรกิจ 2",
+      "description": "ใส่คำอธิบายจาก PDF",
+      "bullets": ["รายการย่อย 1", "รายการย่อย 2"]
+    }
+  ],
+  "contact": {
+    "address_th": "ใส่ที่อยู่จาก PDF",
+    "phone": "ใส่เบอร์โทรจาก PDF",
+    "email": "ใส่อีเมลจาก PDF",
+    "map_embed_url": "ใส่ลิงก์ Google Maps Embed (ถ้ามี)"
+  },
+  "social": {
+    "facebook": "",
+    "line": "",
+    "website": ""
+  }
+}
